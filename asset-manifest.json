@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/whatsapp-clone/static/css/main.227e3ab0.css",
+    "main.js": "/whatsapp-clone/static/js/main.9b3225a6.js",
+    "static/js/787.741e8581.chunk.js": "/whatsapp-clone/static/js/787.741e8581.chunk.js",
+    "index.html": "/whatsapp-clone/index.html",
+    "main.227e3ab0.css.map": "/whatsapp-clone/static/css/main.227e3ab0.css.map",
+    "main.9b3225a6.js.map": "/whatsapp-clone/static/js/main.9b3225a6.js.map",
+    "787.741e8581.chunk.js.map": "/whatsapp-clone/static/js/787.741e8581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227e3ab0.css",
+    "static/js/main.9b3225a6.js"
+  ]
+}
